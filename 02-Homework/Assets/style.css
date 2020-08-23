@@ -1,0 +1,122 @@
+header {
+    background-color: #141522;
+    text-align: center;
+    color: white;
+    font-family: 'ABeeZee', sans-serif;
+    font-weight: bold;
+    font-size: 40px;
+  }
+
+
+header h1 {
+    margin: 0;
+    padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+body {
+    background-color: #87c2d4;
+    height: 100%;
+    margin: 0;
+}
+
+button {
+    width: 70px;
+    height: 40px;
+    background-color: #e48c07;
+    border: none;
+    border-radius: 5px;
+    transition-duration: .4s;
+
+}
+
+button:hover {
+    background-color: #f8af6b;
+}
+button:focus {
+    border: none;
+    outline-color: #b2bec3;
+}
+h1, li, p {
+    font-family: 'ABeeZee', sans-serif;
+    font-weight: lighter;
+}
+input {
+    border: 3px solid #e8e9ee;
+    border-radius: 5px;
+    height: 40px;
+    width: auto
+}
+.container {
+    display: flex;
+    flex-direction: row;
+    max-width: auto;
+    height: auto;
+}
+.search {
+    padding: 25px;
+    background-color: #f5f6fa;
+}
+.search h1 {
+    line-height: 30px;
+}
+
+.forecast {
+    margin-top: 30px;
+    border: solid 4px #cecfd2;
+    margin-left: 5%;
+    min-width: 500px;
+    padding: 12px 15px 15px 15px;
+    height: 300px;
+}
+
+.forecast-container h1 {
+    margin-top: 25px;
+    margin-left: 5%;
+}
+
+.forecast-container .card-text {
+    margin-bottom: 15px;
+    padding: 10px 30px 5px 10px;  
+}
+
+.card {
+    display: flex;
+    flex-direction: row;
+}
+
+
+
+
+.history {
+    margin-top: 20px;
+}
+
+img {
+    width: auto;
+    height: auto;
+}
+
+
+
+li {
+    height: 100%;
+    font-size: larger;
+    background-color: white;
+    border: solid 1px #cecfd2;
+    border-radius: 0px 0px 0px 0px;
+    padding: 12px 5px 12px 15px;
+    list-style: none;
+}
+
+
+
+.row {
+    display: flex;
+    line-height: 50%;
+    margin: 5px 5px 5px 0px;
+}
+
+.row * {
+    margin-right: 5px;
+}
