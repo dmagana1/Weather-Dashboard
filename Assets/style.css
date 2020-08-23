@@ -1,0 +1,42 @@
+    
+nav {
+    background-color: #141522;
+    text-align: center;
+    color: white;
+    font-family: 'ABeeZee', sans-serif;
+    font-weight: bold;
+    font-size: 60px;
+  }
+
+
+nav span {
+    margin: 0;
+    padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+
+body {
+    background-color: #7c8486;
+    height: 100%;
+    margin: 0;
+}
+
+h1, li, p h1{
+    font-family: 'ABeeZee', sans-serif;
+    font-weight: lighter;
+}
+
+.search-header {
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+}
+
+#city-name {
+    font-size: 30px;
+}
+
+.forecast-date {
+    font-size: 18px;
+}
