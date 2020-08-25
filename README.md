@@ -1,6 +1,6 @@
 In this project they wanted us to create Weather Dashboard that would allow the user to search for city of there choice, and see the current weather and the next 5 day forecast. This project was harder than I excepted, but after Googling and Youtubing my questions I was able to create the script and connect the API to script page and create the website.
 
-pic1.jpg - This was my first attempt! I couldnt figure out how to get the 5-day forecast to show at the bottom, but after taking a small rest I went back and looked at my code and was able to figure it I was small a piece of code. 
+https://github.com/dmagana1/Weather-Dashboard/blob/master/pic1.JPG - This was my first attempt! I couldnt figure out how to get the 5-day forecast to show at the bottom, but after taking a small rest I went back and looked at my code and was able to figure it I was small a piece of code. 
 
 Now my porjecty look like this []https://github.com/dmagana1/Weather-Dashboard/blob/master/pic2.JPG
 
