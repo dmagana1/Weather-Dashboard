@@ -1,8 +1,8 @@
-In this project they wanted us to create Weather Dashboard that would allow the user to search for city and see the current weather, and the next 5 day forecast. I tried to create it, but this was more diffcult than I thought it was going to be, and was mot able to figureout how  to get the information from the api to the webpage. I watched a few tutorial on Youtube, and I was able to write the script, but I'm not sure where I went wrong with the 5 day forecast. I've looked at again and rewrote it, but I cant seem to make it appear on my webpage. 
+In this project they wanted us to create Weather Dashboard that would allow the user to search for city of there choice, and see the current weather and the next 5 day forecast. This project was harder than I excepted, but after Googling and Youtubing my questions I was able to create the script and connect the API to script page and create the website.
 
+pic1.jpg - This was my first attempt! I couldnt figure out how to get the 5-day forecast to show at the bottom, but after taking a small rest I went back and looked at my code and was able to figure it I was small a piece of code. 
 
-
-![pic1](pic1.jpg)
+Now my porjecty look like this pic2.jpg
 
 
 
