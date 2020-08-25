@@ -5,6 +5,7 @@ pic1.jpg - This was my first attempt! I couldnt figure out how to get the 5-day 
 Now my porjecty look like this pic2.jpg
 
 
+https://dmagana1.github.io/Weather-Dashboard/
 
 # 06 Server-Side APIs: Weather Dashboard
 
