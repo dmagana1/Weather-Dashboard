@@ -2,7 +2,7 @@ In this project they wanted us to create Weather Dashboard that would allow the 
 
 pic1.jpg - This was my first attempt! I couldnt figure out how to get the 5-day forecast to show at the bottom, but after taking a small rest I went back and looked at my code and was able to figure it I was small a piece of code. 
 
-Now my porjecty look like this pic2.jpg
+Now my porjecty look like this []https://github.com/dmagana1/Weather-Dashboard/blob/master/pic2.JPG
 
 
 https://dmagana1.github.io/Weather-Dashboard/
